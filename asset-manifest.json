@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/kitties-friends/static/css/main.2bb41d4a.css",
-    "main.js": "/kitties-friends/static/js/main.295f56cc.js",
+    "main.js": "/kitties-friends/static/js/main.fb341b4e.js",
     "static/js/453.eceb90f9.chunk.js": "/kitties-friends/static/js/453.eceb90f9.chunk.js",
     "index.html": "/kitties-friends/index.html",
     "main.2bb41d4a.css.map": "/kitties-friends/static/css/main.2bb41d4a.css.map",
-    "main.295f56cc.js.map": "/kitties-friends/static/js/main.295f56cc.js.map",
+    "main.fb341b4e.js.map": "/kitties-friends/static/js/main.fb341b4e.js.map",
     "453.eceb90f9.chunk.js.map": "/kitties-friends/static/js/453.eceb90f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2bb41d4a.css",
-    "static/js/main.295f56cc.js"
+    "static/js/main.fb341b4e.js"
   ]
 }
